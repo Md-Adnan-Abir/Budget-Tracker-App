@@ -59,7 +59,7 @@ budget-tracker/
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/YOUR_USERNAME/budget-tracker.git
+git clone https://github.com/Md-Adnan-Abir/Budget-Tracker-App
 cd budget-tracker
 ```
 
